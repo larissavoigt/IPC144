@@ -5,7 +5,6 @@
  * manually or electronically from any other source (including web sites) or
  * distributed to other students."
  *
- * Name: Larissa Voigt   Student ID 024769143
 */
 
 #include <stdio.h>
